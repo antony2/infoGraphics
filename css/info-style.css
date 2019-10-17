@@ -1,0 +1,79 @@
+.left1 {
+  position: relative;
+  left: 80px;
+  bottom: 260px;
+}
+
+.left2 {
+  position: relative;
+  left: 10px;
+  bottom: 230px;
+}
+
+.left3 {
+  position: relative;
+  left: 89px;
+  bottom: 212px;
+}
+.centerleft {
+  position: relative;
+  top: 100px;
+  left: 150px;
+}
+.centerright {
+  position: relative;
+  bottom: 568px;
+  left: 428px;
+}
+
+.rightlines {
+  position: relative;
+  left: 710px;
+  bottom: 760px;
+}
+.right1 {
+  position: relative;
+  bottom: 1000px;
+  left: 830px;
+}
+.right2 {
+  position: relative;
+  bottom: 1020px;
+  left: 900px;
+}
+.right3 {
+  position: relative;
+  bottom: 1035px;
+  left: 849px;
+}
+.right4 {
+  position: relative;
+  bottom: 1054px;
+  left: 905px;
+}
+.right5 {
+  position: relative;
+  bottom: 1078px;
+  left: 830px;
+}
+
+.icon1 {
+  position: relative;
+  right: 260px;
+  bottom: 0px;
+}
+.icon2 {
+  position: relative;
+  right: 290px;
+  top: 65px;
+}
+.icon3 {
+  position: relative;
+  right: 195px;
+  bottom: 0px;
+}
+.icon4 {
+  position: relative;
+  right: 280px;
+  top: 65px;
+}
