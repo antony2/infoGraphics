@@ -1,4 +1,133 @@
-@media (max-width: 1200px) {
+@media (min-width: 320px) and (max-width: 540px) {
+  .left1 {
+    position: relative;
+    left: 63px;
+    bottom: 200px;
+    visibility: hidden;
+  }
+
+  .left2 {
+    position: relative;
+    left: 10px;
+    bottom: 180px;
+    visibility: hidden;
+  }
+
+  .left3 {
+    position: relative;
+    left: 70px;
+    bottom: 165px;
+    visibility: hidden;
+  }
+  .centerleft {
+    position: relative;
+    top: 50px;
+    left: 170px;
+    margin-left: -168px;
+  }
+  .centerleft-height {
+    height: 250px;
+  }
+  .centerleft-width {
+    width: 360px;
+    height: 360px;
+  }
+  .centerright {
+    position: relative;
+    bottom: 430px;
+    left: 300px;
+    visibility: hidden;
+  }
+
+  .rightlines {
+    position: relative;
+    left: 537px;
+    bottom: 580px;
+    visibility: hidden;
+  }
+  .right1 {
+    position: relative;
+    bottom: 759px;
+    left: 630px;
+    visibility: hidden;
+  }
+  .right2 {
+    position: relative;
+    bottom: 779px;
+    left: 685px;
+    visibility: hidden;
+  }
+  .right3 {
+    position: relative;
+    bottom: 793px;
+    left: 646px;
+    visibility: hidden;
+  }
+  .right4 {
+    position: relative;
+    bottom: 808px;
+    left: 685px;
+    visibility: hidden;
+  }
+  .right5 {
+    position: relative;
+    bottom: 828px;
+    left: 630px;
+    visibility: hidden;
+  }
+
+  .icon1 {
+    position: relative;
+    right: 227px;
+    bottom: 0;
+  }
+  .icon2 {
+    position: relative;
+    top: 60px;
+    right: 250px;
+  }
+  .icon3 {
+    position: relative;
+    left: 147px;
+    bottom: 89px;
+  }
+  .icon4 {
+    position: relative;
+    left: 120px;
+    bottom: 151px;
+  }
+
+  .info-height {
+    height: 500px;
+  }
+
+  .limitwidth {
+    width: 200px;
+  }
+  .limitwidthleftimage {
+    width: 100px;
+  }
+  .rightimgheight {
+    height: 55px;
+  }
+
+  .iconheight {
+    height: 50px;
+  }
+  .left-img-height {
+    height: 90px;
+  }
+
+  .centerright-height {
+    height: 185px;
+  }
+
+  .rightlines-height {
+    height: 150px;
+  }
+}
+
+@media (min-width: 540px) and (max-width: 1200px) {
   .left1 {
     position: relative;
     left: 63px;
