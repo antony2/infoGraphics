@@ -77,3 +77,36 @@
   right: 280px;
   top: 65px;
 }
+
+.info-height {
+  height: 500px;
+}
+
+.limitwidth {
+  width: 200px;
+}
+.limitwidthleftimage {
+  width: 100px;
+}
+.rightimgheight {
+  height: 70px;
+}
+
+.iconheight {
+  height: 50px;
+}
+.left-img-height {
+  height: 130px;
+}
+
+.centerleft-height {
+  height: 290px;
+}
+
+.centerright-height {
+  height: 220px;
+}
+
+.rightlines-height {
+  height: 200px;
+}
