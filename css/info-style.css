@@ -375,4 +375,13 @@
   .rightlines-height {
     height: 200px;
   }
+
+  .tooltip.bottom .tooltip-inner {
+    color: #fff;
+
+    background-color: grey;
+  }
+  .tooltip-arrow {
+    background-color: red;
+  }
 }
