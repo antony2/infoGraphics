@@ -377,11 +377,14 @@
   }
 
   .tooltip.bottom .tooltip-inner {
-    color: #fff;
+    color: black;
+    font-size: 14px;
+    border-radius: none;
 
-    background-color: grey;
+    background-color: lightgoldenrodyellow;
   }
   .tooltip-arrow {
-    background-color: red;
+    color: red;
+    color-interpolation-filters: auto;
   }
 }
