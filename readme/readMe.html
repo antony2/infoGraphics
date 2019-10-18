@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Document</title>
+    <link rel="stylesheet" href="./readme.css" />
+  </head>
+  <body>
+    <h3>How to Animate images on Scroll</h3>
+    <br />
+    <b>Pre-requisites:</b><br />
+
+    <span
+      >1. AOS library from
+      <a href="https://michalsnik.github.io/aos/" target="New Tab"
+        >Here</a
+      > </span
+    ><br />
+    <span
+      >2. Bootstrap 3.4.1 CDN from
+      <a
+        href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css"
+        target="New Tab"
+        >Here</a
+      > </span
+    ><br />
+    <span
+      >3. JQuery CDN from
+      <a href="https://code.jquery.com/jquery-3.4.1.js" target="New Tab"
+        >Here</a
+      > </span
+    ><br />
+    <span
+      >4. Ajax CDN from
+      <a
+        href="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"
+        target="New Tab"
+        >Here</a
+      > </span
+    ><br />
+    <span
+      >5. Bootstrap 3.4.0 CDN from
+      <a
+        href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"
+        target="New Tab"
+        >Here</a
+      > </span
+    ><br />
+    <p>
+      after getting library from
+      <a href=" https://github.com/michalsnik/aos" target="New Tab">AOS</a>,
+      link the <i>aos.js</i> file and <i>aos.css</i><br />
+      <br />
+      Add the following to Script tag in your HTML Body
+      <i>
+        AOS.init({ duration: 1500 });
+      </i>
+      <br /><br />
+      Now right <i>data-aos="fade-right"</i> in <i>img</i> tag to animate the
+      image which fades from right, look for animation styles from
+      <a href="https://michalsnik.github.io/aos/" target="New Tab"
+        >AOS Official Site</a
+      >
+      <br />
+      <br />
+      To delay an animation write <i>data-aos-delay="300"</i> in <i>img</i> tag
+      <br /><br />
+      To ease animation use <i>data-aos-easing="ease-in-back"</i> in
+      <i>img</i> Tag, There are various ease animation settings gothrough
+      <a href=" https://github.com/michalsnik/aos" target="New Tab"
+        >AOS GitHub</a
+      >
+      <br /><br /><br /><br />
+      <b>Tooltip</b><br /><br />
+      For Tooltip use bootstrap default tolltips by writing
+      <i>data-toggle="tooltip" </i>,<br />
+      for placement of tooltip write <i>data-placement="auto bottom"</i> and
+      give the title
+      <i> title="Hey this is my Tooltip..!"</i>
+    </p>
+  </body>
+</html>
