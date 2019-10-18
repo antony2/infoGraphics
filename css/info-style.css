@@ -1,4 +1,4 @@
-@media (min-width: 320px) and (max-width: 540px) {
+@media (min-width: 320px) and (max-width: 541px) {
   .left1 {
     position: relative;
     left: 63px;
@@ -23,7 +23,7 @@
     position: relative;
     top: 50px;
     left: 170px;
-    margin-left: -168px;
+    margin-left: -150px;
   }
   .centerleft-height {
     height: 250px;
@@ -127,7 +127,7 @@
   }
 }
 
-@media (min-width: 540px) and (max-width: 1200px) {
+@media (min-width: 540px) and (max-width: 1201px) {
   .left1 {
     position: relative;
     left: 63px;
