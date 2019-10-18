@@ -127,7 +127,7 @@
   }
 }
 
-@media (min-width: 540px) and (max-width: 1201px) {
+@media (min-width: 541px) and (max-width: 1201px) {
   .left1 {
     position: relative;
     left: 63px;
@@ -252,7 +252,7 @@
   }
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 1201px) {
   .left1 {
     position: relative;
     left: 80px;
